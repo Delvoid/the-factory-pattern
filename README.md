@@ -51,7 +51,7 @@ Here’s how you can run the examples:
 
 1. **Clone the Repository:**
    ```
-   git clone [Your Repository URL]
+   git clone https://github.com/Delvoid/the-factory-pattern
    ```
 2. **Install Dependencies:**
    Navigate to the root of the cloned repository and run:
