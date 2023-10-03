@@ -1,4 +1,17 @@
+<div align="center">
+
 # Factory Pattern Examples in TypeScript
+
+<p align="center">
+   <a href="https://github.com/Delvoid/the-factory-pattern/issues">Report Bug</a>
+   ·
+   <a href="https://github.com/Delvoid/the-factory-patternissues">Request Feature</a>
+  </p>
+
+</div>
+
+![Banner](./github/banner.png)
+
 
 This repository provides a collection of practical examples illustrating the implementation and usage of the Factory Pattern in TypeScript. The Factory Pattern is a versatile design pattern that simplifies object creation, by providing a method that acts as a “factory” for creating objects. It abstracts the instantiation process, allowing the type of object created to be determined at runtime.
 
@@ -11,15 +24,16 @@ This repository provides a collection of practical examples illustrating the imp
 
 ## Examples Overview
 
-### [1. Pizza Ordering System](src/pizza/README.md)
-
-- **Concept**: Create different types of pizzas using a Pizza Factory.
-- **Usefulness**: Easily introduce new pizza types without modifying existing code.
-
-### [2. Logger System](src/logger/README.md)
+### [1. Logger System](src/logger/README.md)
 
 - **Concept**: Develop different logger types using a Logger Factory.
 - **Usefulness**: Switch between different logging mechanisms without changing client code.
+
+
+### [2. Pizza Ordering System](src/pizza/README.md)
+
+- **Concept**: Create different types of pizzas using a Pizza Factory.
+- **Usefulness**: Easily introduce new pizza types without modifying existing code.
 
 
 ### [3. Theme Manager for UI](src/themeManager/README.md)
