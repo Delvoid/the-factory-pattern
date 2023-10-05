@@ -53,8 +53,7 @@ This repository provides a collection of practical examples illustrating the imp
 - **[7. Employee Management System](src/employeeManagement/README.md)**
 - **[8. Game Character Generator](src/characterGenerator/README.md)**
 - **[9. API Request Handler](src/apiRequestHandler/README.md)**
-- **[10. E-commerce Product Display](src/productDisplay/README.md)**
-- **[11. Notification System](src/notificationSystem/README.md)**
+- **[10. Notification System](src/notificationSystem/README.md)**
 
 
 ## Usage
